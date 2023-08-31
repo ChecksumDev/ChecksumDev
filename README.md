@@ -5,17 +5,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=checksumdev&label=Profile%20views&color=0e75b6&style=flat" alt="checksumdev" /> </p>
 
 
-- 🔭 I’m currently working on **[bancho-rs (osu!)](https://github.com/magnesium-uploader/oxide)**
+- 🔭 I’m currently working on **[BeatForge](https://github.com/beat-forge/)**
 
 - 🌱 I’m currently learning **The Rust Programming Language**
 
-- 👯 I’m looking to collaborate on **[Oxide](https://github.com/magnesium-uploader/oxide)**
+- 👯 I’m looking to collaborate on **[BeatForge](https://github.com/beat-forge/)**
 
-- 🤝 I’m looking for help with **[Carbide](https://github.com/magnesium-uploader/carbide)**
+- 🤝 I’m looking for help with **[BeatForge](https://github.com/beat-forge/)**
 
 - 💬 Ask me about **Rust, more rust, and rhythm games.**
 
-- 📫 Reach me at **checksum@velvet.moe | checksum#0001**
+- 📫 Reach me at **me@checksum.space** `or` **@chksm on Discord**
 
 - ⚡ Fun fact! **Born in Tokyo, Japan on a vacation visit; But I'm Texan raised!**
 
